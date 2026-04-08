@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1-beta-feat1",
+  "version": "0.0.2-beta-feat1",
   "name": "deploy-testing",
   "module": "index.ts",
   "type": "module",
